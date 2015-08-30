@@ -1,0 +1,17 @@
+/**
+\page com_neurita_example The Example
+
+\imageMacro{icon.png,"Icon of Example",2.00}
+
+\tableofcontents
+
+\section com_neurita_exampleOverview Overview
+Describe the features of your awesome plugin here
+<ul>
+<li>Increases productivity
+<li>Creates beautiful images
+<li>Generates PhD thesis
+<li>Brings world peace
+</ul>
+
+*/
